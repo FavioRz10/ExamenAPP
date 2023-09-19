@@ -1,0 +1,52 @@
+:root{
+	--f7-theme-color:#7C899F;
+	--f7-navbar-bg-color: #fff; /*navbar*/
+	--f7-navbar-link-color: #5079FE; /*navbar link*/
+	--f7-navbar-text-color:#7C899F;
+	--f7-bars-bg-color:#fff;/*toolbar*/
+	--f7-tabbar-link-inactive-color: #333; /*link toolbar*/
+	--f7-block-margin-vertical:20px;
+	--f7-card-footer-border-color:transparent; 
+}
+
+.swiper-slide{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+	border-radius: 10px;
+}
+
+.block-title-medium{
+	margin-top: 10px;
+	margin-left: 20px;
+}
+
+h1,h2,h3{
+	margin: 0px;
+}
+
+.img-profile{
+	width: 70px;
+}
+
+#panel-nav{
+	color: #7C899F
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
